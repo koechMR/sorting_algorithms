@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #ifndef SORT_H
 #define SORT_H
+typedef enum bool
+{
+	false = 0,
+	true
+} bool;
 /**
  * struct listint_s - Doubly linked list node
  *

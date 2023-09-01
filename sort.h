@@ -15,7 +15,7 @@ typedef enum bool
 	true
 } bool;
 /**
- * struct listint_s - Doubly linked list node
+ * struct listint_s - Doubly linked list in the node
  *
  * @n: Integer stored in the node
  * @prev: Pointer to the previous element of the list
